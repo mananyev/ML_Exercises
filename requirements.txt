@@ -1,0 +1,50 @@
+appdirs==1.4.4
+backcall==0.2.0
+beautifulsoup4==4.9.1
+brotlipy==0.7.0
+bs4==0.0.1
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+colorama==0.4.3
+cryptography==2.9.2
+cycler==0.10.0
+decorator==4.4.2
+distlib==0.3.0
+filelock==3.0.12
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata==1.7.0
+ipython @ file:///C:/ci/ipython_1596868620883/work
+ipython-genutils==0.2.0
+jedi @ file:///C:/ci/jedi_1596472767194/work
+kiwisolver==1.2.0
+matplotlib @ file:///C:/ci/matplotlib-base_1592846084747/work
+mkl-fft==1.0.14
+mkl-random==1.0.4
+mkl-service==2.3.0
+numpy==1.17.0
+pandas @ file:///C:/ci/pandas_1596824386248/work
+parso==0.7.0
+pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+prompt-toolkit==3.0.5
+py4j @ file:///tmp/build/80754af9/py4j_1593437928427/work
+pyarrow==0.15.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.6.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+pyspark @ file:///tmp/build/80754af9/pyspark_1593438048599/work
+python-dateutil==2.8.1
+pytz==2020.1
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+six==1.15.0
+soupsieve==2.0.1
+tornado==6.0.4
+traitlets==4.3.3
+urllib3==1.25.10
+virtualenv==20.0.20
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+win-inet-pton==1.1.0
+wincertstore==0.2
+zipp==3.1.0
