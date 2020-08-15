@@ -16,6 +16,10 @@ The goal was to use PySpark to run a binary classification model on [Census-Inco
 [l2]: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 
+## SQL Exercise
+The goal was to create several queries (see a corresponding Jupyter Notebook for details).
+
+
 ## Scikit-Learn and TensorFlow Exercise
 
 The goal was to build and compare two binary classification models to analyse [Bank Marketing Data Set][l2].
